@@ -21,12 +21,13 @@ p.lead{
 	font-size:1.2rem;
 }
 .bg-primary{
-	background-color: #0010c2!important;
-    background-image: url(../assets/img/always-grey.png);
+background-color: #00b9d1;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .text-primary{
-    color: #0010c2!important;
+    color: #00b9d1!important;
 }
 a{
-	color: #0010c2;
+	color: #00b9d1;
 }
