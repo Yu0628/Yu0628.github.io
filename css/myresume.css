@@ -21,13 +21,13 @@ p.lead{
 	font-size:1.2rem;
 }
 .bg-primary{
-background-color: #00b9d1;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+background-color: #00d7e6;
+background-image: url("https://yu0628.github.io/assets/img/fresh-snow.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .text-primary{
-    color: #00b9d1!important;
+    color: #00d7e6!important;
 }
 a{
-	color: #00b9d1;
+	color: #00d7e6;
 }
