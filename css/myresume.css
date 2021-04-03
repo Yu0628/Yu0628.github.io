@@ -32,3 +32,9 @@ background-image: url("https://yu0628.github.io/assets/img/fresh-snow.png");
 a{
 	color: #00d7e6;
 }
+table {
+	width: 80%;
+}
+tr:nth-child(even) {
+	background-color:#ddd;
+}
